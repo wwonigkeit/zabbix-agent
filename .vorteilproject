@@ -1,0 +1,7 @@
+
+ignore = [".vorteilproject", "*.vcfg"]
+[[target]]
+	name = "default"
+	vcfgs=["default.vcfg", "readme.vcfg"]
+	icon = "zabbix_logo.png"
+	files = []

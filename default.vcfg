@@ -1,0 +1,10 @@
+[[program]]
+	binary="/sbin/zabbix_agentd"
+	args="-c /conf/zabbix_agentd.conf -f"
+	env=[]
+    privilege = "superuser"
+    strace = false
+
+[system]
+    hostname = "vorteil"
+    user = "vorteil"

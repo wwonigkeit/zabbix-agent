@@ -1,0 +1,7 @@
+[info]
+  name = "Zabbix Linux Agent"
+  author = "ZABBIX Ltd."
+  summary = "Zabbix agent on UNIX-like systems is run on the host being monitored."
+  url = "https://www.zabbix.com/"
+  version = "5.0"
+
